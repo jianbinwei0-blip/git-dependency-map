@@ -1,0 +1,3 @@
+interface:
+  display_name: "GitHub Repo Dependency Map"
+  short_description: "Help map dependencies across GitHub repos"
