@@ -1,4 +1,4 @@
-# github-repo-dependency-map
+# git-dependency-map
 
 Codex skill for building cross-repository dependency maps from GitHub repositories.
 
